@@ -27,7 +27,8 @@ let excuseGenerator = () => {
     "A casuel spirit who came to me",
     "Elon Musk",
     "Batman",
-    "The boss"
+    "The boss",
+    "Dua Lipa",
   ];
   let action = [
     "ate",
@@ -39,7 +40,7 @@ let excuseGenerator = () => {
     "rent",
     "put into the water",
     "mixed with acid",
-    "put it next to the window"
+    "put it next to the window",
   ];
   let what = [
     "my homework",
@@ -51,7 +52,7 @@ let excuseGenerator = () => {
     "your favourite book",
     "the tortilla de patata",
     "the credit card",
-    "the passboard"
+    "the passboard",
   ];
   let when = [
     "before the class",
@@ -64,7 +65,7 @@ let excuseGenerator = () => {
     "while I was cutting my nails",
     "before I could stop my moto when I saw it",
     "and I don't give a Fuck!",
-    "when my crush was passing in front of us"
+    "when my crush was passing in front of us",
   ];
 
   let whoIndex = Math.floor(Math.random() * who.length);
